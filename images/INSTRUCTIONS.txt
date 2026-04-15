@@ -1,0 +1,49 @@
+IMAGES FOLDER - INSTRUCTIONS
+=============================
+
+This folder is for storing all your website images.
+
+IMPORTANT: Add Your Profile Photo
+----------------------------------
+1. Place your profile photo in this folder
+2. Name it: profile-photo.jpg
+   (or update the filename in our-team.html if you use a different name)
+3. Recommended specifications:
+   - Format: JPG, PNG, or WEBP
+   - Size: 400x400 pixels or larger
+   - Aspect Ratio: Square (1:1)
+   - File size: Under 500KB for optimal loading
+
+Additional Images You Can Add
+-------------------------------
+- Project photos (for the projects page)
+- Team member photos
+- Office photos
+- Building/architecture images
+- Logo variations
+
+Image Optimization Tips
+-----------------------
+- Compress images before uploading to reduce file size
+- Use appropriate formats:
+  * JPG for photos
+  * PNG for graphics with transparency
+  * SVG for logos and icons
+- Recommended tools:
+  * TinyPNG (https://tinypng.com/)
+  * Squoosh (https://squoosh.app/)
+  * ImageOptim (Mac)
+
+Current Image References in Website
+------------------------------------
+- our-team.html: images/profile-photo.jpg
+  (This is where YOUR profile photo should be placed)
+
+All other images are currently loaded from Unsplash (online).
+You can replace these with your own images by:
+1. Saving images to this folder
+2. Updating the image URLs in the HTML files
+
+Example:
+  Change: url('https://images.unsplash.com/photo-xxxxx')
+  To: url('images/your-image-name.jpg')
